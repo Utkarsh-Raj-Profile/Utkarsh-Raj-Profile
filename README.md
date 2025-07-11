@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Utkarsh Raj!
+# 👋 Hi there, I'm Utkarsh Raj
 
 🎓 **Recent Computer Science Graduate**  
 💻 **Full Stack Developer | Java Enthusiast | SQL Ninja**
