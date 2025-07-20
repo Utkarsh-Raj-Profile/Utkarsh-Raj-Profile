@@ -17,7 +17,7 @@ I'm a passionate and curious developer with a strong foundation in computer scie
 - **Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, MySQL
-- **Tools & Platforms**: Git, GitHub, VS Code, Postman, Vercel, Netlify
+- **Tools & Platforms**: Git, GitHub, VS Code, Postman, Vercel, Netlify.
 
 ---
 
