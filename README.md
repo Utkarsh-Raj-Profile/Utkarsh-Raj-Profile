@@ -13,7 +13,7 @@ I'm a passionate and curious developer with a strong foundation in computer scie
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, JavaScript, HTML, CSS, SQL
+- **Languages**: Java, JavaScript, HTML, CSS, SQL.
 - **Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, MySQL
