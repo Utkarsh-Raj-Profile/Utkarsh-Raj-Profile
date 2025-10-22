@@ -1,58 +1,40 @@
-# 👋 Hi there, I'm Utkarsh Raj
+### 👋 Hi there, I'm Utkarsh Raj  
 
-🎓 **Recent Computer Science Graduate**  
-💻 **Full Stack Developer | Java Enthusiast | SQL Ninja**
-
----
-
-## 🚀 About Me
-
-I'm a passionate and curious developer with a strong foundation in computer science and a growing love for building powerful and scalable web applications. I specialize in **MERN Stack Development**, love writing efficient **Java** code, and enjoy diving into **SQL databases** to solve real-world problems.
+A passionate full-stack web developer specializing in **MERN Stack Development**. I love building scalable, responsive, and high-performing web applications that solve real-world problems. I enjoy writing clean code, exploring new technologies, and continuously improving my skills.  
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages**: Java, JavaScript, HTML, CSS, SQL.
-- **Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MySQL
-- **Tools & Platforms**: Git, GitHub, VS Code, Vercel, Netlify, Render.
+- 💻 I’m currently working on **web applications using ReactJS, Node.js, Express, and MongoDB**  
+- 🌱 I’m currently learning **Next.js** and **cloud deployment (AWS & Vercel)**  
+- 🤝 I’m open to collaborating on **open-source projects** and **full-stack applications**  
+- 📫 How to reach me: **utkarshraj.dev@gmail.com**  
+- ⚡ Fun fact: I enjoy debugging, clean UI design, and exploring new tech tools  
 
 ---
 
-## 📌 Featured Projects
-
-🌟 [**Siman Says Game**](https://github.com/Utkarsh-Raj-Profile/Siman-Says-Game)  
-🎮 Built using HTML, CSS, and JavaScript — a fun interactive game inspired by "Simon Says".
-
-🌟 [**Spotify Home Page Clone**](https://github.com/Utkarsh-Raj-Profile/Spotify-Home-page-colon)  
-🎧 A clean UI clone of Spotify’s homepage using HTML & CSS.
-
-🌟 [**Wanderlust**](https://github.com/Utkarsh-Raj-Profile/Wanderlust)  
-🌐 A Full Stack Travel Blog platform built with the MERN Stack.
-
-🌟 [**Zerodha Clone**](https://github.com/Utkarsh-Raj-Profile/Zerodha_Apna_College)  
-📈 A MERN Stack project replicating the landing page and logic of Zerodha.
+### 🌐 Connect with me  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Utkarsh_Raj____)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-raj-026994224/)   
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento.me/utkarsh-raj)
 
 ---
 
-## 📊 GitHub Stats
-
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utkarsh-Raj-Profile&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Raj-Profile&layout=compact&theme=radical)
+### 🛠️ Languages and Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
-
-- 🌍 Location: India
-- 🔗 [Portfolio](https://bento.me/utkarsh-raj)
-- 📧 Email: ilivesintherealworld@gmail.com 
-- 💼 LinkedIn: [Utkarsh Raj](https://www.linkedin.com/in/utkarsh-raj-026994224/)
-
----
-
-_“The best way to predict the future is to invent it.” – Alan Kay_
-
+⭐ *Persistent, curious, and always eager to learn — I strive to build clean, efficient, and user-focused solutions.*
