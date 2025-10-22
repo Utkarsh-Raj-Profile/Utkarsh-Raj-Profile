@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Utkarsh Raj  
+###                                                                 👋 Hi there, I'm Utkarsh Raj  
 
 A passionate full-stack web developer specializing in **MERN Stack Development**. I love building scalable, responsive, and high-performing web applications that solve real-world problems. I enjoy writing clean code, exploring new technologies, and continuously improving my skills.  
 
@@ -7,7 +7,7 @@ A passionate full-stack web developer specializing in **MERN Stack Development**
 - 💻 I’m currently working on **web applications using ReactJS, Node.js, Express, and MongoDB**  
 - 🌱 I’m currently learning **Next.js** and **cloud deployment (AWS & Vercel)**  
 - 🤝 I’m open to collaborating on **open-source projects** and **full-stack applications**  
-- 📫 How to reach me: **utkarshraj.dev@gmail.com**  
+- 📫 How to reach me: **utkarshrajcsestudent@gmail.com**  
 - ⚡ Fun fact: I enjoy debugging, clean UI design, and exploring new tech tools  
 
 ---
