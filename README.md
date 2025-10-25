@@ -37,4 +37,4 @@ A passionate full-stack web developer specializing in **MERN Stack Development**
 
 ---
 
-⭐ *Persistent, curious, and always eager to learn — I strive to build clean, efficient, and user-focused solutions.*
+### ⭐ *Persistent, curious, and always eager to learn — I strive to build clean, efficient, and user-focused solutions.*
