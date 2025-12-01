@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Utkarsh Raj  
 
-A passionate full-stack web developer specializing in **MERN Stack Development**. I love building scalable, responsive, and high-performing web applications that solve real-world problems. I enjoy writing clean code, exploring new technologies, and continuously improving my skills...
+A passionate full-stack web developer specializing in **MERN Stack Development**. I love building scalable, responsive, and high-performing web applications that solve real-world problems. I enjoy writing clean code, exploring new technologies, and continuously improving my skills.
 
 ---
 
