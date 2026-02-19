@@ -8,7 +8,7 @@ A passionate full-stack web developer specializing in **MERN Stack Development**
 - 🌱 I’m currently learning **Next.js** and **cloud deployment (AWS & Vercel)**  
 - 🤝 I’m open to collaborating on **open-source projects** and **full-stack applications**  
 - 📫 How to reach me: **utkarshrajcsestudent@gmail.com**  
-- ⚡ Fun fact: I enjoy debugging, clean UI design, and exploring new tech tools  
+- ⚡ Fun fact: I enjoy debugging, clean UI design, and exploring new tech tools
 
 ---
 
