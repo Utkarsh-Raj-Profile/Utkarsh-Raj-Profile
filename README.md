@@ -6,8 +6,7 @@ A passionate full-stack web developer specializing in **MERN Stack Development**
 
 - 💻 I’m currently working on **web applications using ReactJS, Node.js, Express, and MongoDB**  
 - 🌱 I’m currently learning **Next.js** and **cloud deployment (AWS & Vercel)**  
-- 🤝 I’m open to collaborating on **open-source projects** and **full-stack applications**  
-- 📫 How to reach me: **utkarshrajcsestudent@gmail.com**  
+- 🤝 I’m open to collaborating on **open-source projects** and **full-stack applications**   
 - ⚡ Fun fact: I enjoy debugging, clean UI design, and exploring new tech tools
 
 ---
