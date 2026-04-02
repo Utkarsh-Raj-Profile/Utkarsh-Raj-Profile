@@ -52,12 +52,8 @@ const utkarsh = {
 
 ## 🚀 Featured Projects
 
-### 🔥 ZerodhaClone
-- 🚀 Live: https://zerodha-clone-frontend.vercel.app
-- 💻 Code: https://github.com/Utkarsh-Raj-Profile/Zerodha_Apna_College?tab=readme-ov-file
-- ⚡ Tech: MERN Stack
-
 ### ⚡ SigmaGPT
+> 🚀 AI-powered full-stack application deployed on AWS with real-time chat capabilities
 - 🚀 Live: http://ec2-16-171-237-242.eu-north-1.compute.amazonaws.com/
 - 💻 Code: https://github.com/Utkarsh-Raj-Profile/SigmaGPT?tab=readme-ov-file
 - ⚡ Features:
@@ -68,17 +64,22 @@ const utkarsh = {
 🌐 Deployed on AWS EC2 with Nginx
 🔗 Frontend–backend integration over REST APIs
 
+### 🔥 ZerodhaClone
+- 🚀 Live: https://zerodha-clone-frontend.vercel.app
+- 💻 Code: https://github.com/Utkarsh-Raj-Profile/Zerodha_Apna_College?tab=readme-ov-file
+- ⚡ Tech: MERN Stack
+
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Raj-Profile&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-Raj-Profile&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Raj-Profile&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Utkarsh-Raj-Profile&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Raj-Profile&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Raj-Profile&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
