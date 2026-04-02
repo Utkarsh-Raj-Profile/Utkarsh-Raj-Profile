@@ -60,7 +60,7 @@ const utkarsh = {
 ### ⚡ SigmaGPT
 - 🚀 Live: http://ec2-16-171-237-242.eu-north-1.compute.amazonaws.com/
 - 💻 Code: https://github.com/Utkarsh-Raj-Profile/SigmaGPT?tab=readme-ov-file
-- **⚡ Features: **
+- ⚡ Features:
 💬 AI-powered chat interface
 🧵 Thread-based conversations
 📜 Persistent chat history
