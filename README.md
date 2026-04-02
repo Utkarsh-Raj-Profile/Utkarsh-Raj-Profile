@@ -50,11 +50,23 @@ const utkarsh = {
 
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
 
-* 🔥 **SigmaGPT** – Built using the MERN Stack, AWS, and OpenAI GPT-4o-mini.
-* ⚡ **ZerodhaClone** – Built using the MERN Stack.
-* 🌐 **Portfolio Website**
+### 🔥 ZerodhaClone
+- 🚀 Live: https://zerodha-clone-frontend.vercel.app
+- 💻 Code: https://github.com/Utkarsh-Raj-Profile/Zerodha_Apna_College?tab=readme-ov-file
+- ⚡ Tech: MERN Stack
+
+### ⚡ SigmaGPT
+- 🚀 Live: http://ec2-16-171-237-242.eu-north-1.compute.amazonaws.com/
+- 💻 Code: https://github.com/Utkarsh-Raj-Profile/SigmaGPT?tab=readme-ov-file
+- **⚡ Features: **
+💬 AI-powered chat interface
+🧵 Thread-based conversations
+📜 Persistent chat history
+⚡ Fast and responsive UI
+🌐 Deployed on AWS EC2 with Nginx
+🔗 Frontend–backend integration over REST APIs
 
 ---
 
