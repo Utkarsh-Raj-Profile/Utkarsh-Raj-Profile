@@ -71,15 +71,20 @@ const utkarsh = {
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Raj-Profile&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Utkarsh-Raj-Profile&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Raj-Profile&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Utkarsh-Raj-Profile&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Raj-Profile&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Raj-Profile&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utkarsh-Raj-Profile&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Utkarsh-Raj-Profile&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
