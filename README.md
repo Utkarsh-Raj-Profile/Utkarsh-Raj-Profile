@@ -5,7 +5,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Raj</h1>
-> 🚀 Building scalable apps that solve real-world problems
 <h3 align="center">⚡ Full Stack Developer | MERN | Building Scalable Systems</h3>
 
 <!-- 🔥 TYPING -->
@@ -25,6 +24,7 @@ const utkarsh = {
   learning: ["Next.js", "AWS", "System Design"],
   mindset: "Clean code. Scalable systems. Real impact.",
 };
+> 🚀 Building scalable apps that solve real-world problems
 ```
 
 ---
