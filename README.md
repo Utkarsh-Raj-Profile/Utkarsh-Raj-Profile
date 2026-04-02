@@ -5,6 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Raj</h1>
+> 🚀 Building scalable apps that solve real-world problems
 <h3 align="center">⚡ Full Stack Developer | MERN | Building Scalable Systems</h3>
 
 <!-- 🔥 TYPING -->
@@ -74,9 +75,12 @@ const utkarsh = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkarsh-Raj-Profile/Utkarsh-Raj-Profile/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkarsh-Raj-Profile/Utkarsh-Raj-Profile/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Utkarsh-Raj-Profile/Utkarsh-Raj-Profile/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Utkarsh-Raj-Profile/Utkarsh-Raj-Profile/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Utkarsh-Raj-Profile/Utkarsh-Raj-Profile/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" 
+      src="https://raw.githubusercontent.com/Utkarsh-Raj-Profile/Utkarsh-Raj-Profile/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
