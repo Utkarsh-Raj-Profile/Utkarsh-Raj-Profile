@@ -74,8 +74,8 @@ const utkarsh = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <width="48%" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Raj-Profile&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  < width="48%" src="https://streak-stats.demolab.com?user=Utkarsh-Raj-Profile&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Raj-Profile&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Utkarsh-Raj-Profile&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -84,18 +84,8 @@ const utkarsh = {
 </p>
 
 <p align="center">
-  < src="https://github-profile-trophy.vercel.app/?username=Utkarsh-Raj-Profile&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Utkarsh-Raj-Profile&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh-Raj-Profile&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -108,6 +98,14 @@ const utkarsh = {
     <img alt="snake" 
       src="https://raw.githubusercontent.com/Utkarsh-Raj-Profile/Utkarsh-Raj-Profile/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh-Raj-Profile&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
