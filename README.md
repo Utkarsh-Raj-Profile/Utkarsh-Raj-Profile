@@ -1,39 +1,118 @@
-### 👋 Hi there, I'm Utkarsh Raj  
+<!-- 🌌 PREMIUM HEADER -->
 
-A passionate full-stack web developer specializing in **MERN Stack Development**. I love building scalable, responsive, and high-performing web applications that solve real-world problems. I enjoy writing clean code, exploring new technologies, and continuously improving my skills.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Utkarsh%20Raj&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20MERN%20|%20Problem%20Solver&descAlignY=60&descSize=18"/>
+</p>
 
----
+<h1 align="center">Hi 👋, I'm Utkarsh Raj</h1>
+<h3 align="center">⚡ Full Stack Developer | MERN | Building Scalable Systems</h3>
 
-- 💻 I’m currently working on **web applications using ReactJS, Node.js, Express, and MongoDB**  
-- 🌱 I’m currently learning **Next.js** and **cloud deployment (AWS & Vercel)**  
-- 🤝 I’m open to collaborating on **open-source projects** and **full-stack applications**   
-- ⚡ Fun fact: I enjoy debugging, clean UI design, and exploring new tech tools
+<!-- 🔥 TYPING -->
 
----
-
-### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-raj-026994224/)   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bento.me/utkarsh-raj)
-
----
-
-### 🛠️ Languages and Tools  
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Expert;Open+Source+Contributor;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-### ⭐ *Persistent, curious, and always eager to learn — I strive to build clean, efficient, and user-focused solutions.*
+# 🧠 About Me
+
+```js
+const utkarsh = {
+  role: "Full Stack Developer",
+  stack: ["React", "Node.js", "MongoDB", "Express"],
+  learning: ["Next.js", "AWS", "System Design"],
+  mindset: "Clean code. Scalable systems. Real impact.",
+};
+```
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-raj-026994224/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
+---
+
+# ⚡ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,nextjs,aws,html,css,tailwind,git,mysql" />
+</p>
+
+---
+
+# 🚀 Projects
+
+* 🔥 **SigmaGPT** – Built using the MERN Stack, AWS, and OpenAI GPT-4o-mini.
+* ⚡ **ZerodhaClone** – Built using the MERN Stack.
+* 🌐 **Portfolio Website**
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Raj-Profile&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-Raj-Profile&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Raj-Profile&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utkarsh-Raj-Profile/Utkarsh-Raj-Profile/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utkarsh-Raj-Profile/Utkarsh-Raj-Profile/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Utkarsh-Raj-Profile/Utkarsh-Raj-Profile/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+# 🧠 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Utkarsh__Raj_?theme=dark" />
+</p>
+
+---
+
+# 💻 Terminal
+
+```bash
+> whoami
+Utkarsh Raj
+
+> skills
+React Node MongoDB Express
+
+> status
+Building. Learning. Improving.
+```
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Utkarsh-Raj-Profile&label=Visitors&color=0e75b6" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:00F7FF&height=120&section=footer"/>
+</p>
