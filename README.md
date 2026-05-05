@@ -122,7 +122,7 @@ Java | MERN Stack | MySQL | Docker | CLI
 > status
 Building scalable systems. Learning continuously.
 
----
+```
 
 # 👀 Visitors
 
