@@ -45,7 +45,7 @@ const utkarsh = {
 # ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,nextjs,aws,html,css,tailwind,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,nextjs,aws,docker,html,css,tailwind,git,bash" />
 </p>
 
 ---
@@ -112,16 +112,14 @@ const utkarsh = {
 
 # 💻 Terminal
 
-```bash
 > whoami
 Utkarsh Raj
 
 > skills
-React Node MongoDB Express
+Java | MERN Stack | MySQL | Docker | CLI
 
 > status
-Building. Learning. Improving.
-```
+Building scalable systems. Learning continuously.
 
 ---
 
