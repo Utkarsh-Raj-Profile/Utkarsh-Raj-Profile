@@ -112,6 +112,7 @@ const utkarsh = {
 
 # 💻 Terminal
 
+```bash
 > whoami
 Utkarsh Raj
 
