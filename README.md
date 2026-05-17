@@ -35,7 +35,7 @@ const utkarsh = {
   <a href="https://www.linkedin.com/in/utkarsh-raj-026994224/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="YOUR_PORTFOLIO">
+  <a href="https://portfolio-nine-bice-91.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
