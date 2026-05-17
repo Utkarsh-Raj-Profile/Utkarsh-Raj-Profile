@@ -32,7 +32,7 @@ const utkarsh = {
 # 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/utkarsh-raj-026994224/?skipRedirect=true">
+  <a href="https://www.linkedin.com/in/utkarsh-raj-software-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://portfolio-nine-bice-91.vercel.app/">
