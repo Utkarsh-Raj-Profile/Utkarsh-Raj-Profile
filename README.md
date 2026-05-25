@@ -52,6 +52,23 @@ const utkarsh = {
 
 ## 🚀 Featured Projects
 
+
+
+### 📚 StudyNotion
+
+> 🚀 Full-stack EdTech platform with authentication, course management, and payment integration
+
+- 🚀 Live: https://studynotiontech.vercel.app/
+- 💻 Code: https://github.com/Utkarsh-Raj-Profile/StudyNotion
+- ⚡ Tech: MERN Stack, JWT, Razorpay, Cloudinary
+
+- ✨ Features:
+  - 🔐 Authentication & Authorization
+  - 📚 Course Management
+  - 🎥 Video Lectures
+  - 💳 Payment Integration
+  - 📱 Responsive UI
+
 ### ⚡ SigmaGPT
 > 🚀 AI-powered full-stack application deployed on AWS with real-time chat capabilities
 - 🚀 Live: http://ec2-16-171-237-242.eu-north-1.compute.amazonaws.com/
@@ -64,12 +81,7 @@ const utkarsh = {
 🌐 Deployed on AWS EC2 with Nginx
 🔗 Frontend–backend integration over REST APIs
 
-### 🔥 ZerodhaClone
-- 🚀 Live: https://zerodha-clone-frontend.vercel.app
-- 💻 Code: https://github.com/Utkarsh-Raj-Profile/Zerodha_Apna_College?tab=readme-ov-file
-- ⚡ Tech: MERN Stack
 
----
 
 ## 📊 GitHub Analytics
 
