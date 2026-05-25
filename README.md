@@ -73,13 +73,14 @@ const utkarsh = {
 > 🚀 AI-powered full-stack application deployed on AWS with real-time chat capabilities
 - 🚀 Live: http://ec2-16-171-237-242.eu-north-1.compute.amazonaws.com/
 - 💻 Code: https://github.com/Utkarsh-Raj-Profile/SigmaGPT?tab=readme-ov-file
+  
 - ⚡ Features:
-💬 AI-powered chat interface
-🧵 Thread-based conversations
-📜 Persistent chat history
-⚡ Fast and responsive UI
-🌐 Deployed on AWS EC2 with Nginx
-🔗 Frontend–backend integration over REST APIs
+  - 💬 AI-powered chat interface
+  - 🧵 Thread-based conversations
+  - 📜 Persistent chat history
+  - ⚡ Fast and responsive UI
+  - 🌐 Deployed on AWS EC2 with Nginx
+  - 🔗 Frontend–backend integration over REST APIs
 
 
 
