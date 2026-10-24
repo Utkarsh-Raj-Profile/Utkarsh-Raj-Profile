@@ -44,9 +44,21 @@ const utkarsh = {
 
 # ⚡ Tech Arsenal
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,nextjs,aws,docker,html,css,tailwind,git,bash" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,nextjs,aws,docker,html,css,tailwind,git,bash,python,pytorch,tensorflow" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Machine%20Learning-blueviolet?style=for-the-badge" alt="AI and Machine Learning" />
+  <img src="https://img.shields.io/badge/GenAI-Generative%20AI-8A2BE2?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A7B83?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-412991?style=for-the-badge" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge" alt="Hugging Face Transformers" />
+</p>
+
+
 
 ---
 
