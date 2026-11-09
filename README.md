@@ -62,37 +62,85 @@ const utkarsh = {
 
 ---
 
-## 🚀 Featured Projects
+---
 
+# 🚀 Featured Projects
 
+<p align="center">
+  <b>Building real-world applications with modern technologies, scalable architecture, and AI.</b>
+</p>
 
-### 📚 StudyNotion
+---
 
-> 🚀 Full-stack EdTech platform with authentication, course management, and payment integration
+## 🧠 BrainBox AI — Personal AI Knowledge Workspace
 
-- 🚀 Live: https://studynotiontech.vercel.app/
-- 💻 Code: https://github.com/Utkarsh-Raj-Profile/StudyNotion
-- ⚡ Tech: MERN Stack, JWT, Razorpay, Cloudinary
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-RAG%20Powered-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-AI%20Service-009688?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb" />
+</p>
 
-- ✨ Features:
-  - 🔐 Authentication & Authorization
-  - 📚 Course Management
-  - 🎥 Video Lectures
-  - 💳 Payment Integration
-  - 📱 Responsive UI
+> An AI-powered document assistant that transforms personal documents into an intelligent, searchable knowledge base.
 
-### ⚡ SigmaGPT
-> 🚀 AI-powered full-stack application deployed on AWS with real-time chat capabilities
-- 💻 Code: https://github.com/Utkarsh-Raj-Profile/SigmaGPT?tab=readme-ov-file
-  
-- ⚡ Features:
-  - 💬 AI-powered chat interface
-  - 🧵 Thread-based conversations
-  - 📜 Persistent chat history
-  - ⚡ Fast and responsive UI
-  - 🌐 Deployed on AWS EC2 with Nginx
-  - 🔗 Frontend–backend integration over REST APIs
+**✨ Key Features**
 
+- 📄 Upload and manage documents in a personal workspace.
+- 🧠 AI-powered question answering using Retrieval-Augmented Generation (RAG).
+- 🔍 Semantic search and relevant document retrieval.
+- 💬 Conversational interface for interacting with your knowledge base.
+- 🔐 JWT-based authentication.
+- 🗂️ User-specific documents and conversation management.
+- ⚡ Dedicated Python-based AI microservice.
+
+**🛠️ Tech Stack**
+
+`React` `Node.js` `Express.js` `Python` `FastAPI` `MongoDB` `Groq` `Sentence Transformers`
+
+<p align="center">
+  <a href="https://brainbox-ai-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-6366F1?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Utkarsh-Raj-Profile/Brainbox-ai">
+    <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 📚 StudyNotion — Full-Stack EdTech Platform
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-00A86B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Razorpay-Payments-3395FF?style=for-the-badge&logo=razorpay" />
+</p>
+
+> A full-stack EdTech platform designed to provide an interactive online learning experience with course management and payment integration.
+
+**✨ Key Features**
+
+- 🔐 Secure authentication and authorization.
+- 📚 Course creation and management.
+- 🎥 Video-based learning experience.
+- 💳 Integrated Razorpay payment gateway.
+- ☁️ Cloudinary integration for media management.
+- 👨‍🎓 Student and instructor workflows.
+- 📱 Responsive user interface.
+
+**🛠️ Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Razorpay` `Cloudinary`
+
+<p align="center">
+  <a href="https://studynotiontech.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-6366F1?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Utkarsh-Raj-Profile/StudyNotion">
+    <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
 
 
 ## 📊 GitHub Analytics
